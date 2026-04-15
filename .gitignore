@@ -1,0 +1,35 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.pdb
+
+# Ignore Go build artifacts
+/dist/
+/winres/
+go.mod
+go.sum
+
+# Ignore output folders
+/Output_CSV/
+/XML/
+
+# Ignore backup/old files
+*.bak
+OLD_*
+* - Working.go
+
+# Ignore IDE/config files
+.vscode/
+.idea/
+*.log
+
+# Ignore icons and assets (unless you want to version them)
+*.ico
+*.png
+icon.png
+
+# Keep only source + whitelist
+!Nokia_Parser.go
+!whitelistedUsers.txt
+!upload_whitelist.bat
+!.gitignore
