@@ -1,0 +1,53 @@
+# Authorized users (local fallback — primary list fetched from GitHub)
+# One Windows username per line. Lines starting with # are ignored.
+# This file is bundled inside the EXE as a fallback when GitHub is unreachable.
+# Keep this in sync with:
+#   https://raw.githubusercontent.com/MelquiadesPulumbarit/NokiaParser/main/whitelistedUsers.txt
+epulmel
+eanzhan
+egurpaw
+ealxcon
+eevemra
+evhojai
+emquhbi
+esnanar
+epapshe
+eialnvk
+emcnhra
+eakknmi
+eoplarm
+eemlcre
+ehnaalr
+esnpahe
+eidncar
+earreyc
+edaitam
+eflojoh
+edizjur
+eonjors
+elogken
+eauxrof
+etoljon
+eaafrrp
+eleohad
+eterjad
+erariak
+edegbry
+erparem
+earrrma
+eearulc
+esageva
+eraiasn
+evirbda
+ebleroe
+eeajssc
+elamrum
+esumnei
+eacanpu
+epagroc
+etudraz
+emonwel
+eariept
+emondex
+eyoyhar
+
